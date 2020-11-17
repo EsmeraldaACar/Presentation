@@ -40,14 +40,16 @@
 ## Projects
 Social Service
 
-*Page Web made in WordPress with Elementor*
+- **Page Web made in WordPress with Elementor**
 <https://www.pochutla.tecnm.mx/>
 
-*Analized code and Solutions of Bugs*
+- **Analized code and Solutions of Bugs**
 <https://www.pochutla.tecnm.mx/>
 
-*Development member for the project bank*
+- **Development member for the project bank**
 <http://proyectos.pochutla.tecnm.mx/inicio>
+
+- **Android aplication that generates V-Card and send it to gmail, whatsap and sms **
 
 
 
