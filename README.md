@@ -1,3 +1,5 @@
+
+
 ## Works and Experience 
 
 - Desktop development using Java with NetBeans 3 years during my carrer.
@@ -34,5 +36,21 @@
 - Computer Systems Engineering *On course*.
 - Course of Data Science *To start*.    
         
-   
+  
+## Projects
+Social Service
+
+*Page Web made in WordPress with Elementor*
+<https://www.pochutla.tecnm.mx/>
+
+*Analized code and Solutions of Bugs*
+<https://www.pochutla.tecnm.mx/>
+
+*Development member for the project bank*
+<http://proyectos.pochutla.tecnm.mx/inicio>
+
+
+
+
+
     
