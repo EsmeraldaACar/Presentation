@@ -38,7 +38,6 @@
         
   
 ## Projects
-Social Service
 
 - **Page Web made in WordPress with Elementor**
 <https://www.pochutla.tecnm.mx/>
@@ -50,6 +49,8 @@ Social Service
 <http://proyectos.pochutla.tecnm.mx/inicio>
 
 - **Android aplication that generates V-Card and send it to gmail, WhatsApp and sms**
+- **Flutter aplication that create,delete, update and read articles**
+- **Installation and configuration of cameras and intercom**
 
 
 
