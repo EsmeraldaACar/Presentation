@@ -49,7 +49,7 @@ Social Service
 - **Development member for the project bank**
 <http://proyectos.pochutla.tecnm.mx/inicio>
 
-- **Android aplication that generates V-Card and send it to gmail, whatsap and sms **
+- **Android aplication that generates V-Card and send it to gmail, whatsap and sms**
 
 
 
