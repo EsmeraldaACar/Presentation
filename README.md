@@ -1,5 +1,4 @@
-# Presentation
-### Works and Experience 
+## Works and Experience 
 
 - Desktop development using Java with NetBeans 3 years during my carrer.
 
@@ -18,20 +17,22 @@
     - Installation of intercom 3 weeks.
     
     
-    ### Languages & Technologies
-    - Versions Control Git/GitHub.
-    - WordPress-Elementor.
-    - MySQL, SQLite.
-    - Java,C/C++, .NET, Dart.
-    - PHP,HTML,CSS,Bootstrap, JS.
-    - Laravel,CodeIgniter, Flutter,Android Studio.
+## Languages & Technologies
+ - Versions Control Git/GitHub.
+ - WordPress-Elementor.
+ - MySQL, SQLite.
+ - Java,C/C++, .NET, Dart.
+ - PHP,HTML,CSS,Bootstrap, JS.
+ - Laravel,CodeIgniter, Flutter,Android Studio.
+   
     
     
-    ### Education
-    - Technical Technician in Support and Maintenance Computer Equipment.
-    - Course of Corona SDK.
-    - Course of Git/GitHub.
-    - Computer Systems Engineering *On course*.
-    - Course of Data Science *To start*.
+## Education
+- Technical Technician in Support and Maintenance Computer Equipment.
+- Course of Corona SDK.
+- Course of Git/GitHub.
+- Computer Systems Engineering *On course*.
+- Course of Data Science *To start*.    
+        
    
     
